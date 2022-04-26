@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alberto Tonda
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Permanent Researcher in Applied Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: INRAE, Université Paris-Saclay
+    url: https://www.inrae.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include interpretable machine learning, evolutionary optimization and feature selection, with applications to food science, health, and gaming.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Food Science and Processing
+  - Healthcare and Medical Applications
 
 # Education to show in About widget
 education:
