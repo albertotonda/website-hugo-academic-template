@@ -73,4 +73,4 @@ highlight_name: true
 
 Alberto Tonda is a permanent researcher (CRCN) at the Applied Mathematics and Computer Science research unit (UMR 518 MIA-Paris) in Paris, France. His research interests include evolutionary algorithms, machine learning, and neuro-symbolic artificial intelligence, with main applications to food science and health. He is part of the EKINOCS team, which works on including expert knowledge in applications of artificial intelligence.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alberto_Tonda_CV_202205.pdf" "newtab" >}}resumé{{< /staticref >}}.
