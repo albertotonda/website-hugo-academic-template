@@ -6,7 +6,7 @@ tags:
   - Backlash
   - Industrial robots
   - Industrial collaboration
-date: '2016-04-27T00:00:00Z'
+date: '2022-05-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -32,4 +32,4 @@ Gear backlash is quite a serious problem for industrial robots, as it typically 
 
 This project aims at developing a method for estimating backlash in robotic joints that does not require the installation of additional devices. The method only relies on data gathered from the motor encoder, which is always present in a robotic joint. The approach is based on the observation of a characteristic vibration pattern arising on the motor speed signal when backlash affects the joint transmission. By observing the amplitude of this vibration, information related to the entity of the backlash in the joint can be gathered.
 
-The project, developed in collaboration with [COMAU](https://www.comau.com/), is mainly the outcome of [Eliana Giovannitti](https://www.linkedin.com/in/elianagiovannitti/)'s Ph.D., that I co-supervised with [Giovanni Squillero](https://https://staff.polito.it/giovanni.squillero/). Experimental results on both simulated and real-world data show that the method is viable and robust to noise. The approach is cost-effective, fast, and easily automatable, therefore convenient for the industrial world.
+The project, developed in collaboration with [COMAU](https://www.comau.com/), is mainly the outcome of [Eliana Giovannitti](https://www.linkedin.com/in/elianagiovannitti/)'s Ph.D., that I co-supervised with [Giovanni Squillero](https://staff.polito.it/giovanni.squillero/). Experimental results on both simulated and real-world data show that the method is viable and robust to noise. The approach is cost-effective, fast, and easily automatable, therefore convenient for the industrial world.
