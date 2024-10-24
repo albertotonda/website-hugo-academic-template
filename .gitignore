@@ -9,5 +9,4 @@ node_modules/
 go.sum
 .hugo_build.lock
 content/home/_removed_skills.md
-content/home/_removed_featured.md
-content/home/_removed_accomplishments.md
+/content/home/removed
